@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Block06</string>
+    <string name="imageview_small">imageview_small</string>
+    <string name="imageview_large">imageview_large</string>
+    <string name="seekbar_tuner">seekbar_tuner</string>
+</resources>
